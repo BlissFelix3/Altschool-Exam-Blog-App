@@ -33,7 +33,7 @@ This is an api for a blog app
 
 - Install NodeJS, mongodb
 - pull this repo
-- update env with example.env
+- run `npm test`
 - run `npm start`
 
 ---
